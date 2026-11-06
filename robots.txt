@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kburbano.github.io/garage-storage-guides/sitemap.xml
