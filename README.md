@@ -17,9 +17,11 @@ Suggested repo name: `garage-storage-guides`
 | `robots.txt` | Allow crawl + sitemap pointer |
 | `sitemap.xml` | Basic sitemap (update base URL if repo/user changes) |
 
-## Affiliate note
+## Affiliate disclosure
 
-Product links are **plain** retailer/brand URLs. Do **not** invent Amazon Associates tags. Swap in real tags only after Associates approval.
+Amazon product and search links use Associates tracking ID `garagestor0be-20` (`tag=garagestor0be-20`). Each page includes: “As an Amazon Associate I earn from qualifying purchases.”
+
+Keep a known ASIN when the page already links to that product. If there is no ASIN, link to an Amazon search URL (`https://www.amazon.com/s?k=...&tag=garagestor0be-20`). Do not invent ASINs. Amazon links use `rel="sponsored nofollow noopener"` and `target="_blank"`.
 
 ## Publish on GitHub Pages (@kburbano)
 
@@ -69,4 +71,4 @@ Then visit http://localhost:8080/
 
 ## Honest timing
 
-Months 1–2 are indexing and content—not cash. Keep drafts before affiliate outreach sends.
+Months 1–2 are indexing and content. Re-check live prices before anyone buys.

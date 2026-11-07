@@ -444,13 +444,13 @@ tbody tr:hover {
   color: var(--muted);
 }
 
-.placeholder-list {
+.buy-list {
   list-style: none;
   padding: 0;
   margin: 0 0 1rem;
 }
 
-.placeholder-list li {
+.buy-list li {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -458,18 +458,10 @@ tbody tr:hover {
   margin: 0 0 0.55rem;
 }
 
-.placeholder-list .price {
+.buy-list .price {
   float: right;
   color: var(--muted);
   font-size: 0.9rem;
-}
-
-.placeholder-tag {
-  font-family: var(--mono);
-  font-size: 0.82rem;
-  background: #f0eeea;
-  padding: 0.1rem 0.35rem;
-  border-radius: 4px;
 }
 
 /* Home cards */
