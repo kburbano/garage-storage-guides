@@ -11,12 +11,14 @@ Suggested repo name: `garage-storage-guides`
 | File | Purpose |
 |------|---------|
 | `index.html` | Home + links to guides |
+| `garage-slatwall-proslat-vs-gladiator.html` | Slatwall: Proslat vs Gladiator vs StoreWALL (2026) |
 | `overhead-garage-racks-low-ceilings.html` | Best overhead racks for low ceilings (2026) |
 | `garage-bike-storage-without-drilling-concrete.html` | Bike storage without drilling concrete (2026) |
 | `garage-ladder-storage-wall-vs-ceiling.html` | Ladder storage, wall vs ceiling mounts (2026) |
 | `styles.css` | Shared mobile-friendly CSS |
 | `robots.txt` | Allow crawl + sitemap pointer |
 | `sitemap.xml` | Basic sitemap (update base URL if repo/user changes) |
+| `topic-research.md` | Running log of topics considered |
 
 ## Affiliate disclosure
 

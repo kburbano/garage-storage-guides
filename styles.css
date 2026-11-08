@@ -549,3 +549,29 @@ hr {
   font-size: 0.9rem;
   color: var(--muted);
 }
+
+/* Original diagrams — inline SVG, no product photos */
+figure.diagram {
+  margin: 1.25rem 0 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.85rem 0.85rem 0.7rem;
+  box-shadow: var(--shadow);
+}
+
+figure.diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+figure.diagram figcaption {
+  margin: 0.7rem 0.15rem 0.1rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.table-wrap table.wide {
+  min-width: 62rem;
+}
