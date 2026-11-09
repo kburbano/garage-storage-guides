@@ -39,3 +39,28 @@ Same-night re-check before publish:
 - Low-ceiling overhead racks (`overhead-garage-racks-low-ceilings.html`)
 - Bike storage without drilling concrete (`garage-bike-storage-without-drilling-concrete.html`)
 - Ladder storage, wall vs ceiling (`garage-ladder-storage-wall-vs-ceiling.html`)
+
+## 2026-11-08 (America/Phoenix, MST)
+
+### Winner
+
+**Motorized garage storage lift** — published as `motorized-garage-storage-lift-worth-it.html`.
+
+Candidates scored (Demand / Ticket / Competition):
+
+| Candidate | Demand | Ticket | Competition | Result |
+|---|---|---|---|---|
+| Motorized garage storage lift | High | High — $646–$2,300 | Medium — mostly retailer/D2C blogs and Reddit threads | Won |
+
+Google autocomplete: “garage storage lift system motorized”, “best motorized garage storage lift”, “garage storage lift diy”, “garage ceiling storage lift 4x8”.
+
+It won because it is the highest-ticket gap, deferred from Nov 7, and it complements the overhead-rack page. The Nov 7 pass had parked it: Auxx-Lift, ONRAX, and SmarterHome are mostly direct-to-consumer, and a Garage Gator 66059K listing was unavailable. This pass used the 66069K platform (ASIN B07V56B44X, $646 on Amazon) plus the GG8220 lift bar and GarageSmart Universal XL, and treated the platform brands as direct/installer products with Amazon search links only.
+
+### Considered, not chosen
+
+| Candidate | Demand | Ticket | Competition | Why it lost |
+|---|---|---|---|---|
+| Garage heater for a 2-car / 1,000 sq ft garage | High in November (“garage heater for” autocomplete) | — | Crowded | High seasonal demand, and the results page is already crowded |
+| Car lift for a low ceiling | “best car lift for low ceiling garage” | $2k+ | — | Next candidate |
+| Garage workbench for a 3D printer, miter saw, or table saw | — | — | — | Next candidates |
+| Kayak ceiling storage hoists | — | — | — | Considered; not this page |
