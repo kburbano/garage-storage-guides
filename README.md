@@ -14,6 +14,7 @@ Suggested repo name: `garage-storage-guides`
 | `garage-slatwall-proslat-vs-gladiator.html` | Slatwall: Proslat vs Gladiator vs StoreWALL (2026) |
 | `overhead-garage-racks-low-ceilings.html` | Best overhead racks for low ceilings (2026) |
 | `motorized-garage-storage-lift-worth-it.html` | Motorized garage storage lift: Garage Gator vs GarageSmart vs Auxx-Lift vs ONRAX (2026) |
+| `car-lift-low-ceiling-garage.html` | Best car lift for a low-ceiling garage: MaxJax, QuickJack, scissor, and 4-post (2026) |
 | `garage-bike-storage-without-drilling-concrete.html` | Bike storage without drilling concrete (2026) |
 | `garage-ladder-storage-wall-vs-ceiling.html` | Ladder storage, wall vs ceiling mounts (2026) |
 | `styles.css` | Shared mobile-friendly CSS |
