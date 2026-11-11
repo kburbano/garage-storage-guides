@@ -11,6 +11,7 @@ Suggested repo name: `garage-storage-guides`
 | File | Purpose |
 |------|---------|
 | `index.html` | Home + links to guides |
+| `garage-cabinets-with-workbench.html` | Cabinets with a built-in workbench: NewAge Bold vs Pro vs Seville vs Duramax (2026) |
 | `garage-slatwall-proslat-vs-gladiator.html` | Slatwall: Proslat vs Gladiator vs StoreWALL (2026) |
 | `overhead-garage-racks-low-ceilings.html` | Best overhead racks for low ceilings (2026) |
 | `motorized-garage-storage-lift-worth-it.html` | Motorized garage storage lift: Garage Gator vs GarageSmart vs Auxx-Lift vs ONRAX (2026) |

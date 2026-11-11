@@ -96,3 +96,36 @@ Verified prices, Nov 9, 2026:
 - Triumph NSS-8, Amazon ASIN B00QHEV0IE: page verified, no featured offer, 4.4 stars from 153 ratings. Overall height 84 in, lifting height 72 in on the runway and 69 in under it, 110V in the description. Dealer pages at $2,875: Mechanic Super Store (was $3,150), Car Lift Supply, and InnovDepot.
 
 Concrete figures used on the page came from the MaxJax M7K concrete page and install manual, BendPak HD-9 manual 5900123, the Dannmar D4-9 series manual, and the MD-6XP manual: 4.25 in and 3,000 PSI where those documents say so. The QuickJack 6000TL page did not publish a slab thickness.
+
+## 2026-11-10 (America/Phoenix, MST)
+
+### Winner
+
+**Garage storage cabinets with a built-in workbench** — published as `garage-cabinets-with-workbench.html`.
+
+Candidates scored (Demand / Ticket / Competition):
+
+| Candidate | Demand | Ticket | Competition | Result |
+|---|---|---|---|---|
+| Garage storage cabinets with a built-in workbench | High | High — about $970–$2,270 verified | Medium — big-box and brand sites, not one review page owning the combo query | Won |
+| Garage mini split | High, including “garage mini split reddit” | High — about $1,000–$2,500 | High — HVAC contractors | Not chosen |
+| Overhead above-garage-door storage racks | Good, fits the ceiling theme | Low–medium — about $150–$400 | Medium | Not chosen |
+| Garage-ready freezer or refrigerator | High | High | High — appliance retailers and Consumer Reports | Not chosen |
+| Garage heater | High in November | Medium — prior nights, about $175–$400+ | High — crowded, same as Nov 7–9 | Not chosen |
+
+Google autocomplete: “garage storage cabinets with workbench”, “best garage workbench and storage”, “best garage workbench and storage for the money”, “best garage workbench with drawers”, “best garage workbench height”, “garage storage cabinets with doors”, “garage storage cabinets with drawers”, “garage storage cabinets with wheels”, “garage cabinets for tools”.
+
+It won because combo systems sit in the high-ticket band, the autocomplete demand is a long-tail problem query rather than the head term “garage cabinets”, and it is the queued workbench candidate from Nov 8 and Nov 9, moved up from a single bench to the cabinet-plus-worktop version. Low-ceiling car lifts, motorized storage lifts, overhead racks for low ceilings, bike storage without drilling, ladder storage, and slatwall (Proslat vs Gladiator) are already on the site.
+
+The mini split stays a strong future candidate, especially for hot climates, and it is off this site’s storage niche. Above-the-door racks fit the ceiling theme at a lower ticket. A garage-ready freezer is an appliance-retailer and Consumer Reports result. The heater is still crowded.
+
+Verified prices, Nov 10, 2026:
+
+- NewAge Bold Series 5-piece, model 73509, shopnewage.com: $1,099.99 (regular $1,399.99). Tractor Supply the same night: $1,399.99. 120 × 18 × 72 in (75.25–76.75 in with legs). Two 30 in lockers, 60 in wall cabinet, 60 in RTA workbench, 60 in bamboo or stainless top. Bench 500 lb, locker 800 lb, wall cabinet 100 lb. Product title says 24-gauge. The set FAQ says 22-gauge frames and 24-gauge doors. newageproducts.com’s workbench support page says Bold 3.0 frames are 24-gauge and Pro 3.0 frames are 18-gauge. Drawer count is not published; Tractor Supply’s spec table says 0. The FAQ says the bench attaches to a locker and the wall.
+- NewAge Pro Series 5-piece, model 32626, shopnewage.com: $2,269.99 (regular $2,529.99). Includes list: 36 in locker, two 28 in wall cabinets, 28 in tool cabinet, 56 in bamboo or stainless top, 1.25 in thick. Set line 92 × 24 × 84.75 in. Locker and tool cabinet up to 1,000 lb, wall cabinets 200 lb. FAQ: 18-gauge frames, 19-gauge double-walled doors. The long description also mentions a 2-door base cabinet that is not in the includes list. The separate 28 in tool cabinet (shopnewage.com) was $719.99, five drawers, 22 in deep, 1,000 lb, casters extra.
+- Seville Classics UltraHD 4-piece, UHDK20408, sevilleclassics.com: $969.99. Footprint 112 × 24 × 95.5 in, including a 48 × 24 in bench, 28.5–42 in. That bench’s own page (UHD20182B) was $229.99, 1.5 in coated wood, 1,000 lb evenly distributed. No steel gauge.
+- Seville Classics UltraHD 6-piece with 11-drawer rolling workbench, sevilleclassics.com: $2,099.99. Footprint 149 × 20 × 72 in. The bench’s own page was $1,199.99, 77 × 20 × 37.5 in, 1.5 in hardwood, 11 drawers, 30 lb each, 500 lb total. No steel gauge.
+- Duramax 3-piece workbench and wall cabinets, duramaxbp.shop: $1,629 (regular $2,719.99). Bench 72 × 24 × 37 in, 3 drawers, acacia top, casters. Two wall cabinets, 36 × 14 × 20 in. No gauge and no load rating on that page.
+- Amazon ASIN B0CTFXMW65 is a different Seville 5-piece (about 108 in wide). The page loaded and had no featured offer.
+
+Not verified tonight, so not priced on the page: Husky and Gladiator cabinet-and-workbench kits (Home Depot returned 403), Sam’s Club Seville bundle prices (403; search snippets disagreed with each other), Costco package prices, Fedmax, and a current Craftsman combo. Every existing guide already had an original inline SVG, so the older-page pass added links to this guide instead of a second diagram.
