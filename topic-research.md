@@ -129,3 +129,39 @@ Verified prices, Nov 10, 2026:
 - Amazon ASIN B0CTFXMW65 is a different Seville 5-piece (about 108 in wide). The page loaded and had no featured offer.
 
 Not verified tonight, so not priced on the page: Husky and Gladiator cabinet-and-workbench kits (Home Depot returned 403), Sam’s Club Seville bundle prices (403; search snippets disagreed with each other), Costco package prices, Fedmax, and a current Craftsman combo. Every existing guide already had an original inline SVG, so the older-page pass added links to this guide instead of a second diagram.
+
+## 2026-11-11 (America/Phoenix, MST)
+
+### Winner
+
+**Garage floor tiles vs epoxy, 2-car garage** — published as `garage-floor-tiles-vs-epoxy.html`.
+
+Candidates scored (Demand / Ticket / Competition / Result):
+
+| Candidate | Demand | Ticket | Competition | Result |
+|---|---|---|---|---|
+| Garage floor tiles vs epoxy, 2-car garage | High | High — about $1,700–$2,100 in tiles for 400 sq ft; $250–$330 DIY kit | Medium — page one is epoxy-installer blogs, manufacturer cost pages, Reddit and Garage Journal threads, thin listicles; no Wirecutter or Home Depot guide owning the vs query | Won |
+| Rolling tool chest with wood top / tool chest workbench | Medium-high | High — $300–$1,500 | High — Pro Tool Reviews, big-box, Harbor Freight (not on Amazon) | Not chosen |
+| Garage storage for golf clubs / golf bags | Medium | Low–medium | Medium | Not chosen — low ticket |
+| Garage tire storage rack / ceiling tire storage lift | Medium | Low–medium | Medium | Not chosen |
+| Garage-ready freezer | High | High | High — appliance retailers, Consumer Reports | Not chosen (same as Nov 10) |
+| Garage heater / mini split | High seasonal | Medium/High | High | Not chosen (crowded / off-niche, as prior nights) |
+| Garage floor containment mat | Medium | Low — $70–$180 | Medium | Folded into the floor guide as a cheap alternative |
+
+Google autocomplete: “garage flooring tiles vs epoxy”, “garage flooring tiles interlocking”, “garage flooring tiles reddit”, “best garage floor tiles for cars”, “best garage floor tiles for the money”, “best garage floor tiles consumer reports”. The tool-chest queries were “rolling tool chest with wood top” and “garage tool chest workbench”. The mat queries were “garage floor mat for under car / winter / oil leaks”.
+
+Why it won: highest-ticket uncovered garage upgrade with strong comparison-intent autocomplete. Amazon actually carries the premium brands (Swisstrax, RaceDeck), so a 400 sq ft order is about a $1,700–$2,100 cart, and the results page is installer and manufacturer content plus forums rather than one authoritative review. The containment mat was too small a ticket for its own page and is mentioned on the floor guide as the renter / snow-belt alternative.
+
+Verified prices and specs used on the page, Nov 11, 2026:
+
+- Swisstrax store, Ribtrax PRO: $4.99/sq ft, $8.58/tile, 15.75 × 15.75 × 0.75 in, 1.47 lb, 100% UV-stabilized virgin polypropylene, limited lifetime warranty, −22°F to 248°F, compression strength 3,120 psi, open ribbed profile. Ribtrax Smooth PRO on the cost page: $4.99/sq ft, 15.75 × 15.75 × 0.63 in.
+- Amazon ASIN B0BFLNZWGW, Ribtrax PRO Jet Black 24-pack: about $205.99. The listing says the pack covers about 41 sq ft and states 15.75 × 15.75 × 0.75 in. Warranty line on that page: lifetime for residential use, 15 years for commercial. 24 × (15.75 in)² ÷ 144 = 41.34 sq ft. 400 sq ft needs 10 packs = $2,059.90. Pearl Grey B0BFLMTPVQ and Slate Grey B0BFLPLGVP are linked without a separate price.
+- RaceDeck category page: Free-Flow $3.99/sq ft, GarageFlow $2.69 (was $3.99), Diamond $4.85, XL $4.85, Free-Flow XLC $4.99, MAX $4.99, TuffShield $5.85. Free-Flow product page: 12 × 12 × 0.5 in, 10 oz, self-draining, 20-year badge. Diamond product page: 12 × 12 × 0.5 in, 15 oz, solid top, 20-year badge. GarageFlow page: 12 × 12 × 0.5 in, 15 oz, light-duty residential, and a note to put a load-distributing plate under a floor jack or jack stand.
+- Amazon ASIN B0753WBPZ6, Free-Flow black 48-pack: about $191.52, 48 sq ft, $3.99/sq ft. Nine packs = $1,723.68 for 432 sq ft. The Amazon text says a 15-year warranty, which does not match the 20-year badge on racedeck.com.
+- Amazon ASIN B0753TGVCR, Diamond black 48-pack: about $232.80 ($4.85/sq ft, matches the factory price) and another seller at $227.99. Nine packs at $232.80 = $2,095.20. Amazon text again says 15 years.
+- Amazon ASIN B07D4M4ST4, Nitro Diamond graphite: about $159.99 for a 52-pack / 52 sq ft ($3.08/sq ft), 12 × 12 × 0.38 in. Eight packs = $1,279.92 for 416 sq ft. The listing says leave about 3/4 in for expansion and use vented tiles near sunlit openings. FlooringInc lists Nitro from $1.99/sq ft, 12 × 12 × 3/8 in, and says the tile is not car-jack approved. Vented ASIN B06Y27NRLP is linked; its pack size was not re-opened.
+- Amazon ASIN B06XJ17JVD, RockSolid gray 2.5-car kit: about $264.99, 180 fl oz on that listing. ASIN B077YVHVL2, dark gray 2.5-car kit: about $274.99. Both listings: two pouches, each 200–250 sq ft, foot traffic 8–10 hours, vehicles 24–36 hours, “no hot tire pickup” in the title. The instruction sheet says new concrete needs 28 days, air temperature 40–90°F, do not leave the pouch in direct sun, do not cure in direct sunlight, and vehicles in 24–36 hours. rustoleum.com’s catalog line says drive on in 24 hours and up to 450–500 sq ft for the 2.5-car kit. A Nov 11 Home Depot check had 152 oz gray at $214 and 180 oz kits at $249.99–$332.12 by color; a Home Depot 180 oz spec table showed 55–90°F. Those Home Depot prices were not re-opened.
+
+Not verified, so not turned into a cart on the page: Costco tile prices, a fresh pro-install quote (the page uses the Nov 11 ranges: epoxyinstallpros.com’s 450 sq ft bands, one Garage Journal $1,600 quote for 400 sq ft, an r/HomeImprovement DIY coating under $600, and an r/BMW tile job at $1,308), rollover-load ratings beyond Swisstrax’s published 3,120 psi and the RaceDeck rolling-load claims, Pegged PRO edge linear footage (a Nov 11 search had a 10-pack around $33.90), the Ribtrax Smooth PRO Amazon offer (Nov 11 search about $205.99, not re-opened), generic 50-pack live offers (Nov 11 search about $78–$86 and the pages were unavailable), and under-car mat live offers (Nov 11 search about $70–$180). A Home Depot Nitro Diamond 52-pack was $2.63/sq ft that night and a Nitro Coin 16-pack was $3.55/sq ft; those shelf prices were not re-opened. The Amazon Nitro pack size, which the evening search had not confirmed, was confirmed on the product page before publish.
+
+Older-page refresh: `overhead-garage-racks-low-ceilings.html` (first published Nov 6, last real edit the Nov 8 SVG pass). New title and meta description name SafeRacks, MonsterRax, and FLEXIMOUNTS, which are already on the page. Added a visible “Updated November 11, 2026” line, a “Who should skip an overhead rack” section, and links to the motorized-lift, ladder, cabinet, and new floor guides. Prices stay the Nov 5, 2026 figures and are labeled that way. Every other guide already had an original inline SVG, so none was added.
