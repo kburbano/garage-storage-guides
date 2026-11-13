@@ -11,6 +11,7 @@ Suggested repo name: `garage-storage-guides`
 | File | Purpose |
 |------|---------|
 | `index.html` | Home + links to guides |
+| `wall-mount-garage-door-opener-vs-ceiling.html` | Wall-mount (jackshaft) vs ceiling-mount opener when the rail blocks the ceiling (2026) |
 | `garage-floor-tiles-vs-epoxy.html` | Floor tiles vs epoxy for a 2-car garage: RaceDeck, Swisstrax, Nitro, and RockSolid (2026) |
 | `garage-cabinets-with-workbench.html` | Cabinets with a built-in workbench: NewAge Bold vs Pro vs Seville vs Duramax (2026) |
 | `garage-slatwall-proslat-vs-gladiator.html` | Slatwall: Proslat vs Gladiator vs StoreWALL (2026) |

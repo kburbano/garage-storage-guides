@@ -165,3 +165,42 @@ Verified prices and specs used on the page, Nov 11, 2026:
 Not verified, so not turned into a cart on the page: Costco tile prices, a fresh pro-install quote (the page uses the Nov 11 ranges: epoxyinstallpros.com’s 450 sq ft bands, one Garage Journal $1,600 quote for 400 sq ft, an r/HomeImprovement DIY coating under $600, and an r/BMW tile job at $1,308), rollover-load ratings beyond Swisstrax’s published 3,120 psi and the RaceDeck rolling-load claims, Pegged PRO edge linear footage (a Nov 11 search had a 10-pack around $33.90), the Ribtrax Smooth PRO Amazon offer (Nov 11 search about $205.99, not re-opened), generic 50-pack live offers (Nov 11 search about $78–$86 and the pages were unavailable), and under-car mat live offers (Nov 11 search about $70–$180). A Home Depot Nitro Diamond 52-pack was $2.63/sq ft that night and a Nitro Coin 16-pack was $3.55/sq ft; those shelf prices were not re-opened. The Amazon Nitro pack size, which the evening search had not confirmed, was confirmed on the product page before publish.
 
 Older-page refresh: `overhead-garage-racks-low-ceilings.html` (first published Nov 6, last real edit the Nov 8 SVG pass). New title and meta description name SafeRacks, MonsterRax, and FLEXIMOUNTS, which are already on the page. Added a visible “Updated November 11, 2026” line, a “Who should skip an overhead rack” section, and links to the motorized-lift, ladder, cabinet, and new floor guides. Prices stay the Nov 5, 2026 figures and are labeled that way. Every other guide already had an original inline SVG, so none was added.
+
+## 2026-11-12 (America/Phoenix, MST)
+
+### Winner
+
+**Wall-mount (jackshaft) garage door opener vs ceiling mount** — published as `wall-mount-garage-door-opener-vs-ceiling.html`.
+
+Candidates scored (Demand / Ticket / Competition / Result):
+
+| Candidate | Demand | Ticket | Competition | Result |
+|---|---|---|---|---|
+| Wall-mount opener vs ceiling mount | High | High — about $525–$752 for the unit; $1,049 installed on one Massachusetts price book | Medium — page one is small garage-door-company blogs, Reddit, and Garage Journal; no big-brand review owning the comparison | Won |
+| Garage track system (Rubbermaid FastTrack vs Gladiator GearTrack) | Medium | Medium | High — Home Depot and Lowe’s own the category pages | Not chosen |
+| Garage storage for kayaks / ceiling hoist | Lower | Low | Medium | Not chosen |
+| Heavy-duty garage shelving | Medium | Low–medium | High — Amazon and Home Depot dominate | Not chosen |
+| Garage freezer | High | High | High — appliance retailers and Consumer Reports | Not chosen (same as Nov 10) |
+| Garage tool chest workbench | Medium-high | High — Nov 11 note, about $300–$1,500 | High — Pro Tool Reviews, big-box, Harbor Freight | Not chosen (same as Nov 11) |
+
+Google autocomplete noted for this pass: “wall mount garage door opener vs ceiling mount”, “…pros and cons”, “…reviews”, “…liftmaster”, “…chamberlain”, “…installation cost”; “jackshaft garage door opener problems”, “…vs belt drive”, “…cost”, “…pros and cons”.
+
+Why it won: high-ticket comparison-intent long tail, and it extends the site’s ceiling-clearance cluster (car lift, overhead racks, motorized storage lift). The track system is a big-box category. Kayak hoists are a low ticket. Heavy-duty shelving is an Amazon and Home Depot result. The freezer and the tool-chest workbench stay crowded, same as prior nights.
+
+Verified prices and specs used on the page, Nov 12, 2026:
+
+- Chamberlain RJO101, Amazon ASIN B0C7K97GX2, sold by Amazon.com: $524.60. Used Amazon Resale offer on the same page: $498.37. 4.5 stars from 648 ratings. Model RJO101MC. Item weight 33.9 lb. Chamberlain’s product page: direct drive, DC, battery backup, myQ, automatic lock, Security+ 2.0, lifetime motor, lifetime drive, 5-year parts, 1-year battery. The Amazon title says 850 lb lift power. A bullet on the same listing says “supports doors up to 36 lbs,” which matches the unit weight, so that line was not used as a door rating.
+- Chamberlain RJO101 owner’s manual (team Taylor copy of 114-5863-000): trained technicians only; sectional doors with torsion assemblies only; not for low-headroom tracks with outside-pickup drums or extension springs; 1 in torsion bar, at least 1.5 in past the bearing; 8.5 in from the end of the bar to the side wall; 2.5 in from the back wall to the bar center; 3 in from the ceiling to the bar center; outlet within 6 ft; high lift up to 54 in; doors up to 14 ft high and 18 ft wide; 3–3.9 in drums only up to 430 lb; not compatible with reverse-wound drums. The manual text opened here did not print an 850 lb door rating.
+- LiftMaster 98022 product page: DC, battery backup, 1,000 lumens, doors up to 850 lb, lifetime motor, 5-year parts, 1-year accessories, no cable tension monitor. No consumer price on that page.
+- LiftMaster 98022 owner’s manual: the same fit list as the RJO101 manual, plus 120 Vac, 60 Hz, 1.5 A. The French section of that PDF states doors up to 180 sq ft (16.7 m²).
+- Amazon ASIN B0C7SWKRNP, 98022, sold by Moving Up Garage Door Company: $653.59, 4.5 stars from 314 ratings. Included-components line: 893MAX, 841LM, 485LM, 880LMW, 827LM. Description says sectional doors up to 850 lb.
+- GAS Hardware 98022: $655.00, in stock, 35.5 lb.
+- Moving Up’s own 98022 page: $751.62, in stock. That box list uses an L993M remote and an 837LM light, so it is not the same carton as the Amazon listing. One spec row says 8 in of side clearance; the checklist and the manual say 8.5 in. The page uses 8.5 in.
+- Murray’s Garage Door Services, wall-mount article last updated September 30, 2026: LiftMaster 98022 $1,049 installed on a compatible door; 6580L belt $804 installed; 2220L chain $574 installed. Conversion work is extra. Their opener range on that page is $574–$1,229.
+- CMC Door Service: 98022 installed $1,619 in Miami-Dade, Broward, and Monroe only. Supply-only on that page was $1,340 plus shipping. Used as a second installed price book, not a national rate.
+- Genie model 6172 page: wall mount, up to 850 lb, 18 ft wide, 180 sq ft, 14 ft on the store description, 6.8 × 14.5 × 9 in head, 7 in side clearance, 2.5 in above the tube, outlet within 6 ft. The store bullet on the same family says the head is 12 in tall. The page uses 14.5 in, which matches the model page and a support reply. 6172H-B store listing: sold out, no price. 6172H-BO: $585.99, and the page printed both “Sold out” and “In stock.”
+- Chamberlain B4613T, Amazon ASIN B09B2MZVVP: listing verified, no featured offer. Title says 3/4 HP belt drive with battery backup. Bullets include a 1,000-lumen light. Warranty line: lifetime motor, lifetime belt, 5-year parts, 1-year accessories. The chamberlain.com B4613T URL returned the B6850 camera belt when opened, so specs were not taken from that URL. B6713T Amazon ASIN B09B2QWGHM was also unavailable, no featured offer. Chamberlain’s B6713T page: belt, DC, battery backup, 2,000 lumens, 1-1/4 HP comparison rating, lifetime motor and belt.
+- LiftMaster 85503-267 parts page: model discontinued. Parts list is a ceiling belt (rail, trolley, header bracket), not a wall-mount.
+- r/GarageDoorService, July 20, 2024, post opened: California owner paid $1,750 for a 98022MC plus install after a previous side-mount lock twice failed to release, and had seen the unit online around $650. July 9, 2026 post opened: $3,400 quoted for two wall-mounts and removal of two ceiling motors in a west Chicago suburb. The model was not named. Comment prices under those threads did not render.
+
+Not verified, so not used as prices or quotes on the page: Home Depot shelf prices (the RJO101, B4613T, B2212T, RJO70, and Genie 6172H-B pages returned 403 or only appeared as search snippets, including a snippet of RJO101 at $579, B4613T at $289, and 6172H-B at $464.67); Reddit comment-level installer quotes in the $995–$1,250 band; a Genie collection-page snippet of 6072H-B at $554.99; Ring’s RJO70 price; whether the 6172H-BO is actually in stock; an 850 lb rating printed in the RJO101 manual; a live new price for the B4613T. A used B4603T Amazon Resale offer at $277.26 was opened and left off the page because the listing’s bullets do not mention battery backup.
