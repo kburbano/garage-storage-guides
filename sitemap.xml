@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kburbano.github.io/garage-storage-guides/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kburbano.github.io/garage-storage-guides/garage-attic-lift.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://kburbano.github.io/garage-storage-guides/garage-ceiling-fan-clearance.html</loc>
@@ -44,13 +50,13 @@
   </url>
   <url>
     <loc>https://kburbano.github.io/garage-storage-guides/motorized-garage-storage-lift-worth-it.html</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://kburbano.github.io/garage-storage-guides/overhead-garage-racks-low-ceilings.html</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -62,7 +68,7 @@
   </url>
   <url>
     <loc>https://kburbano.github.io/garage-storage-guides/garage-ladder-storage-wall-vs-ceiling.html</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
