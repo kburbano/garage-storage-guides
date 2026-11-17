@@ -14,6 +14,7 @@ Suggested repo name: `garage-storage-guides`
 | `wall-mount-garage-door-opener-vs-ceiling.html` | Wall-mount (jackshaft) vs ceiling-mount opener when the rail blocks the ceiling (2026) |
 | `garage-floor-tiles-vs-epoxy.html` | Floor tiles vs epoxy for a 2-car garage: RaceDeck, Swisstrax, Nitro, and RockSolid (2026) |
 | `garage-cabinets-with-workbench.html` | Cabinets with a built-in workbench: NewAge Bold vs Pro vs Seville vs Duramax (2026) |
+| `laundry-room-cabinets-over-washer-and-dryer.html` | Cabinets over a washer and dryer: height, depth, and wall cabinets (2026) |
 | `garage-slatwall-proslat-vs-gladiator.html` | Slatwall: Proslat vs Gladiator vs StoreWALL (2026) |
 | `overhead-garage-racks-low-ceilings.html` | Best overhead racks for low ceilings (2026) |
 | `motorized-garage-storage-lift-worth-it.html` | Motorized garage storage lift: Garage Gator vs GarageSmart vs Auxx-Lift vs ONRAX (2026) |

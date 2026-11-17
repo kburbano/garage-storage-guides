@@ -323,3 +323,39 @@ Verified prices and specs used on the page, November 15, 2026:
 - Garage Journal thread 354746, “Help Sizing LVL Beam for Mezzanine,” started March 3, 2017: the thread loaded, including replies. Deck 15 ft wide by 12 ft deep for car parts. One reply used 40 psf live and 10 psf dead, then corrected the joists for the 12 ft depth from 2×6 to 2×8. Another reply said to hire a licensed engineer.
 
 Not verified, so not used: a contractor or installed price (garagestorageguide.com’s DIY $900–$1,900 / $2,000–$4,400 and contractor $6,000–$15,000 bands, and build-construct.com’s $15–$70 per square foot bands, were in search results and were not turned into prices); the siemens-mobile.com “best mezzanine kits” listicle, which is overhead racks and pallets; Wildeck and Bluff prices on themezzanineexpert.com; a boat-ladder price and an industrial 63° alternating-tread price that appeared as related-product lines and were not opened as the product page; a Paragon loft-railing category price; Amazon ship-ladder prices that appeared only on a search results page; any Home Depot shelf price; the model IRC section for the 4-inch sphere (only the Washington guard amendment was opened); a lumber ticket for a DIY wood deck; which cell is right when a MezzaninesOnline sheet disagrees with itself (TS 8 area, TS 8 gross weight, straight-stair riser, alternating-tread angle, TM 15 minimum height, rope spacing, and whether the TS 8 “stairs” pack contains a stair); Reddit comment text under the two threads whose posts did load; r/HomeImprovement threads 1d1jj1o, dm5zcq, pnk9u6, and 6zwar6, which appeared in search and were not opened; a mezzanine ASIN. Older-page pass: every existing guide already had an original inline SVG, so none was added. `garage-slatwall-proslat-vs-gladiator.html` got a title and meta refresh that names Gladiator GearWall, a visible “Updated November 15, 2026” line, and links to the mezzanine and attic guides. Prices on that page stay the November 7, 2026 figures. Footer or body links to the new guide were also added on the attic, overhead-rack, motorized-lift, car-lift, and ladder pages. Those prices were not rechecked.
+
+## 2026-11-16 (America/Phoenix, MST)
+
+### Winner
+
+**Laundry room cabinets over a washer and dryer** (home-storage night) — published as `laundry-room-cabinets-over-washer-and-dryer.html`.
+
+Candidates scored (Demand / Ticket / Competition / Amazon-sold / Result):
+
+| Candidate | Demand | Ticket | Competition | Amazon-sold | Result |
+|---|---|---|---|---|---|
+| Laundry cabinets over washer and dryer | High (deep autocomplete: height, pedestals, deep, ideas) | Mid-high ($160–$280 per cabinet, about $250–$520 per wall) | Low-medium (cabinet-maker blogs, Lowe’s how-to, Reddit r/cabinetry) | Yes, all picks amazon.com | WON |
+| Garage mudroom lockers (“mudroom lockers for garage” autocomplete) | Medium | Amazon lockers only about $80–$170; NewAge Bold/Pro lockers $350–$900 are dealer/brand-site sold, not Amazon | Medium | Partly | Lost — revisit if NewAge’s affiliate program is approved. Note for John: check whether NewAge Products runs an affiliate program and apply. |
+| Walk-in closet system with drawers | High | Amazon catalog search returned mostly dressers $70–$330, not true systems | High (Home Depot, IKEA, Container Store) | Weak | Lost |
+| Pantry cabinet with pull-out shelves | High | About $110–$200 on Amazon | High (big-box) | Yes | Lost (lower ticket, crowded) |
+
+Google autocomplete noted for this pass: “laundry room cabinets over washer and dryer”, “cabinets above washer and dryer height”, “how high above washer and dryer should cabinets be”, “cabinets above washer and dryer on pedestals”, “deep cabinets over washer and dryer”, “laundry room storage above washer and dryer”.
+
+Why it won: high long-tail demand with a measurable problem (height clearance) that an SVG diagram explains, Amazon-sold picks so it can earn now, and page one is blogs and forums rather than one review site.
+
+Verified when the pages were opened for this guide:
+
+- Captivating Cabinets laundry sizing guide: bottoms at 54–60 in over front-loaders (about 13 in over a 40.8 in LG, about 15 in over a 38¾ in Samsung). Top-loader rule is lid-open height plus about 6 in, or the maker’s overhead clearance, whichever is higher. Samsung WA45N3050AW: 44 in tall, 58⅛ in with the lid open, 21 in alcove clearance, so about 65 in. Stacked WF53BB8700 example: 77⅝ in plus about 6 in, cabinet near 84 in. LG pair on pedestals 54.7 in, uppers around 66 in. Folding counter about 41–43 in and often 30 in or more deep, then 18 in to the uppers. 12 in deep over a counter you lean on; 24 in deep over bare machines.
+- TEC Cabinetry washer-dryer clearances: about 1 in each side, about 6 in behind, about 48 in in front of front-loaders, about 24 in above a top-load lid. The article says the larger gaps are planning allowances, not universal rules, and says not to put a fixed counter over a top-loader.
+- Lowe’s measuring guide (page returned 403; the how-to text in search confirmed the two figures used): stacked units about 78–80 in of vertical room; side-by-side space at least 56 in wide. Also at least 1 in at the sides, about 6 in behind, and at least 20 in above a top-loader. Used as room size, not as the cabinet-bottom number.
+- r/cabinetry 1n122bt and 1n651rs were not re-opened comment by comment. The page paraphrases the brief only: 16 in between counter and upper is the gap people worry will not take a basket; 18 in is the usual minimum and is not a code number; 20–24 in if you stand and fold. No quotes.
+- Furnaza B0FPFQDCNG: $249.99 (list $279.99). White. Title 60 in, shaker, 32 H × 12 D. Size line and bullet: set of two, each 32 × 30 × 12 in. Engineered wood; bullet also says MDF and particleboard. French cleat named. Unit count row says 1, which fights the set-of-two bullet. A grey-finish sentence is still on the white page.
+- Furnaza B0FPFMVJB9: $159.99. One cabinet, 12 × 30 × 32 in, white shaker. Two are about $319.98, more than the 60 in listing.
+- FIMELLO B0FB3DHPSB: $279.99. White grain, barn doors. Bullet says 2 cabinets. Dimensions row 12 × 30 × 24 in. Another bullet: 29.53 × 11.81 × 23.6 in, one adjustable shelf. The 24 is the height.
+- NEWOWNDS rattan B0DJNZZ4GB: $159.99. 24 in × 2, black. Dimensions row 12 × 24 × 22 in. Bullet: 23.6 × 11.8 × 21.6 in, set of 2. About 48 in wide, short of 56 in. One bullet says natural rattan; another says artificial rattan on MDF. Page said the items ship from and are sold by different sellers.
+- NEWOWNDS B0F1FXD5TM: $279.99. Bullet says 2 cabinets, each 30 × 12 × 32 in. The 43 lb line is both “single cabinet weight” and “weight capacity maximum.”
+- Bevivog blue B0FT8R91H1: $199.99. 15.74 × 31.5 × 71 in. Title: drawer, 2 doors, 4 adjustable shelves. Bullets claim 120 lb per shelf and about 300 lb total. Style bullet still says four barn doors and a bright white finish. Ships from BEVIVOG-Direct.
+- Bevivog black B0FT8SHRTX: about $179.99 on the Nov 16 catalog check. The page opened for this guide rendered $199.99 and also said Ships from BEVIVOG-Direct. Same dimension and load lines as the blue page.
+- Wall budget arithmetic from those Nov 16 prices: one 60 in Furnaza is about $250; two 30 in Furnaza cabinets are about $320; that pair plus the blue pantry is about $520. The rattan pair is about $160 and does not span the machines. Buying the NEWOWNDS 30 in listing twice would be about $560, outside the band, because the opened page already prices a 2-pack.
+
+Older-page pass: a short contextual link and a footer link from `garage-cabinets-with-workbench.html` to the new guide. No price refresh on older guides. No new SVG on older pages. Index card, home nav, sitemap, and the README page list updated.
