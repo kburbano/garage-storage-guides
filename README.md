@@ -13,6 +13,7 @@ Suggested repo name: `garage-storage-guides`
 | `index.html` | Home + links to guides |
 | `wall-mount-garage-door-opener-vs-ceiling.html` | Wall-mount (jackshaft) vs ceiling-mount opener when the rail blocks the ceiling (2026) |
 | `garage-floor-tiles-vs-epoxy.html` | Floor tiles vs epoxy for a 2-car garage: RaceDeck, Swisstrax, Nitro, and RockSolid (2026) |
+| `armadillo-tough-vs-newage-vs-gladiator-garage-cabinets.html` | Steel garage cabinets: Armadillo Tough vs NewAge vs Gladiator, gauge, depth, price (2026) |
 | `garage-cabinets-with-workbench.html` | Cabinets with a built-in workbench: NewAge Bold vs Pro vs Seville vs Duramax (2026) |
 | `laundry-room-cabinets-over-washer-and-dryer.html` | Cabinets over a washer and dryer: height, depth, and wall cabinets (2026) |
 | `garage-heater-for-2-car-garage.html` | Garage heater for a 2-car garage: watts, 120V vs 240V, electric vs gas (2026) |
@@ -32,6 +33,8 @@ Suggested repo name: `garage-storage-guides`
 Amazon product and search links use Associates tracking ID `garagestor0be-20` (`tag=garagestor0be-20`). Each page includes: “As an Amazon Associate I earn from qualifying purchases.”
 
 Keep a known ASIN when the page already links to that product. If there is no ASIN, link to an Amazon search URL (`https://www.amazon.com/s?k=...&tag=garagestor0be-20`). Do not invent ASINs. Amazon links use `rel="sponsored nofollow noopener"` and `target="_blank"`.
+
+Armadillo Tough links use Awin (advertiser 121712, publisher 3158244). Deep links: `https://www.awin1.com/cread.php?awinmid=121712&awinaffid=3158244&ued=<URL-encoded armadillotough.com product URL>`, with `rel="sponsored nofollow noopener"`. Only deep-link product URLs that were opened and verified.
 
 ## Publish on GitHub Pages (@kburbano)
 
