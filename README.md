@@ -16,6 +16,7 @@ Suggested repo name: `garage-storage-guides`
 | `armadillo-tough-vs-newage-vs-gladiator-garage-cabinets.html` | Steel garage cabinets: Armadillo Tough vs NewAge vs Gladiator, gauge, depth, price (2026) |
 | `garage-cabinets-with-workbench.html` | Cabinets with a built-in workbench: NewAge Bold vs Pro vs Seville vs Duramax (2026) |
 | `laundry-room-cabinets-over-washer-and-dryer.html` | Cabinets over a washer and dryer: height, depth, and wall cabinets (2026) |
+| `best-closet-system-small-reach-in-closet.html` | Best closet system for a small reach-in closet with drawers (2026) |
 | `garage-heater-for-2-car-garage.html` | Garage heater for a 2-car garage: watts, 120V vs 240V, electric vs gas (2026) |
 | `garage-slatwall-proslat-vs-gladiator.html` | Slatwall: Proslat vs Gladiator vs StoreWALL (2026) |
 | `overhead-garage-racks-low-ceilings.html` | Best overhead racks for low ceilings (2026) |
