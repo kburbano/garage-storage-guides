@@ -475,3 +475,85 @@ Affiliate note for John: The Container Store looks like it has a free publisher 
 Could not verify, so not used as a price or a spec: the pure-white drawer price; HOKEEPER and both DALTEN prices; Rubbermaid 2–4 ft and 6–10 ft pages (the size menu lists them); a top-shelf ASIN; an Elfa kit price; a Pax kit price; a sourced 24 in closet depth; which Rubbermaid parts list is the carton; which 4–8 ft depth and material line is right; SuiteSymphony rod-hole heights; an official Container Store commission rate; Reddit comment text.
 
 Older-page pass: `armadillo-tough-vs-newage-vs-gladiator-garage-cabinets.html` was the guide with no original SVG. Added a gauge-order diagram and figcaption. Prices on that page stay the Nov 18, 2026 figures and were not re-checked. Every other existing guide already had an original inline SVG. `laundry-room-cabinets-over-washer-and-dryer.html` got a sentence and a footer link back to the new page. `garage-cabinets-with-workbench.html` got a footer link. Neither price was re-checked. Index card, home nav, sitemap lastmod 2026-11-18, and the README page list updated. No FAQPage JSON-LD.
+
+## 2026-11-19 (America/Phoenix, MST)
+
+### Winner
+
+**Garage mini split — DIY kit size, cost, no-window install** — published as `garage-mini-split-diy-size-cost.html`.
+
+Garage night. The last two home-storage picks were Nov 16 laundry and Nov 18 closet, so two this week already.
+
+Google autocomplete noted for this pass (supplied with the assignment, Nov 19, 2026): “garage mini split” returned cost, installation cost, install, ac unit, ac, system, calculator, installation near me, reddit. “garage air conditioner” returned and heater, no window, portable, unit, ideas, no vent, installation. “garage ac unit” returned portable, no window, wall mount, leaking water, home depot, mr cool, ductless, installation cost. “garage dehumidifier” returned with pump, with drain hose, reddit, wall mounted. “garage exhaust fan” returned through wall, with thermostat, ceiling mount, kit. “garage tire storage” returned rack, ideas, lift, diy. “garage kayak storage” returned ideas, hoist, pulley system.
+
+Candidates scored (Demand / Ticket / Competition / Amazon-sold / Result):
+
+| Candidate | Demand | Ticket | Competition | Amazon-sold | Result |
+|---|---|---|---|---|---|
+| Garage mini split (DIY size/cost/no window) | High (deep autocomplete for mini split + AC no-window) | High — top pick $1,690; range $1,128–$1,899 for mini splits; $500–$1,039 through-wall | Medium — page one is HVAC makers (Bryant, Carrier), pickhvac, garageplaybook, hvachowto, Reddit; no Home Depot/Wirecutter owner of the query | Yes — top pick verified Amazon product page B0HHJNYD5H | WON |
+| Garage dehumidifier with pump | Medium-high | Mid ($250–$900) | High — many affiliate listicles (thehonestreviewers, dehumidifierverdict, top10slist, ofzenandcomputing) | Yes | Lost (crowded) |
+| Garage exhaust fan through wall / with thermostat | Medium | Low-mid | Not checked | Not shopped | Lost (lower ticket) — candidate for a summer night |
+| Garage tire storage rack / lift | Medium | Low for racks; lifts unpriced | — | — | Lost (again) |
+| Garage kayak storage hoist | Medium | Low | — | — | Lost |
+| Garage wall storage systems | High | Mid-high | Overlaps `garage-slatwall-proslat-vs-gladiator.html` and the cabinet pages | — | Lost (overlap) |
+
+Why it won: the mini split was parked on Nov 14 as a strong candidate for a later night. It is a $1,100–$1,900 heat-and-cool ticket that is actually carted on Amazon (top pick product page verified). It pairs with the heater guide during heating season. Page one is HVAC manufacturer pages and blogs rather than a big review site. The dehumidifier lost to a page one full of affiliate listicles.
+
+### Verified prices and specs, Nov 19, 2026
+
+Top pick — MRCOOL DIY Select 18K BTU 230V, model DIYS-18-HP-230A11-O:
+
+- Amazon product page verified: `https://www.amazon.com/dp/B0HHJNYD5H`, $1,690.00, In Stock, ships from and sold by Spreetail (third-party seller, not Amazon), 5.0 stars from 3 ratings, “50+ bought in past month.” Bullets: heats and cools up to 800 sq ft on 230V; 11.5 ft line set included; pre-charged Quick Connect line set means no vacuum pump, gauges, brazing or refrigerant handling; 230V power needs a professional electrical connection; up to 17.3 SEER2 cooling, 8.5 HSPF2 heating; as low as 18.5 dB silent mode; R-454B; app/Alexa/Google; the 93.25 lb system has a 2-year manufacturer warranty.
+- MRCOOL support spec page (support.mrcool.com, DIY Select 1st Gen 18K condenser): cooling 17,000 BTU, heating 18,000 BTU, 1.5 ton, SEER2 17.3, EER2 9, HSPF2-4 8.5, HSPF2-5 6.5, 208/230V, max breaker 20A, min circuit ampacity 15A, line set 11.5 ft included, max line set 75 ft, 1/4 in liquid / 1/2 in suction, condenser 55 dBA, condenser 30.12 × 21.85 × 11.93 in, 62.61 lb net. Energy Star: No. Warranty listed there as “1 year parts, 2 years compressor.” Amazon says a 2-year manufacturer warranty. The page says the warranty terms differ by source and to check the registration terms. The 93.25 lb figure is the system weight on Amazon. The 62.61 lb figure is the condenser net weight.
+- MRCOOL DIY Select brochure (doxrepo.mrcool.com/mc-diy-SELECT-br-en.pdf): max coverage 9K up to 400, 12K up to 550, 18K up to 800, 24K up to 1,050 sq ft. “Max Coverage Area is determined using ideal installation conditions.” Spec sheet says specs are preliminary and subject to change. No 9K price was opened, so the 9K is not a pick.
+- Same brand’s 24K DIY Select on Amazon: $1,899.00 (search result). The 3-car/hot-climate step-up. 23,000 BTU cooling, 16.5 SEER2, 208/230V, up to 1,050 sq ft, outdoor 61 dB(A). No product URL opened. Heating BTU, line-set length, and breaker were not in that result.
+
+1-car / 115V — MRCOOL DIY Select 12K BTU 115V, DIYS-12-HP-115A11-O:
+
+- Amazon search result: $1,549.00, 3.1 stars from 2 ratings. IWAE-bundled listing “MrCool DIY Select Mini Split w/Line Set & 1 YR Labor Warranty by IWAE, 12K BTU 17.5 SEER2 11.5ft Line Set” at $1,399.00, 4.6 stars from 14 ratings. Search link only. No ASIN.
+- Specs from MRCOOL dealer pages and the brochure: 12,000 BTU cool / 12,000 heat, 17.5 SEER2, EER2 8.5, HSPF2-4 9.0, up to 550 sq ft, 115V, outdoor min circuit ampacity 19.5A, max breaker 20A. A dealer page cites 12 AWG minimum wire from the manual chart. 11.5 ft pre-charged Quick Connect line set, max line 75 ft, as low as 17.5 dB(A). Install data from a Cool Air Depot page citing the MRCOOL manual / AHRI 218004485: indoor unit at least 6.0 ft above the floor, ceiling at least 7.3 ft. Longer pre-charged sets of 16, 25, 35, and 50 ft are on an MRCOOL dealer page for the 12K. That option list was not opened for the 18K. The 18K cons on the guide say the included 11.5 ft line limits condenser placement, and they point at the 12K lengths as the sourced option list.
+
+Tooled install — Pioneer Diamante Essenza 18,000 BTU 20 SEER2 230V with 16 ft kit:
+
+- Amazon search result and pioneerminisplit.com: $1,128.00. Search link only. No ASIN.
+- Pioneer installation manual (WYT-17 series): refrigerant circuit must be evacuated to 500 microns and held under vacuum. Vacuum pump and manifold gauge required. Install by qualified personnel. Electrical by a licensed electrician.
+- Pioneer store: register within 90 days for up to 5 years parts/compressor coverage, versus 1 year unregistered.
+- Pioneer Quantum Hyperformance 18K is cited only as 23.5 SEER2, the comparison that puts the MRCOOL 18K’s 17.3 SEER2 lower than a tooled-install unit. No Quantum price was opened.
+- Also on Amazon that night, not picks: many no-name “pre-charged condenser” 18K units at $519.99–$669.99, including a Garvee 18,000 BTU 19 SEER2 at $649.99. Some listings say “HVAC Tech Needed.” The guide warns that a pre-charged condenser is not the same claim as a no-vacuum Quick Connect line set.
+- Klimaire DIY 18,000 BTU 23 SEER2 Quick Connect 230V with a 25-ft quick-connect line, disconnect, and whip: $1,759.00, Amazon search result. Longer-line-set DIY alternative. Specs beyond the search-result title were not opened.
+
+Renter / occasional — Midea Duo 14,000 BTU (12,000 BTU SACC) inverter portable with heat:
+
+- Amazon search result: $569.99 Black Friday Deal, list $679.99, 4.0 stars from 267 ratings, “with Heat,” up to 550 sq ft. Search link only. No ASIN. Circuit requirements were not opened. “Dual hose” appears only inside the Reddit quote below, not as an Amazon spec.
+
+Through-the-wall, no window, cheaper than a mini split:
+
+- ROVSUN Smart 12,000 BTU Through the Wall Air Conditioner with Heat, 230V: $499.99, list $599.99, “Best Seller in Through-the-Wall Air Conditioners,” 4.1 stars from 50 ratings. Search link only.
+- OLMO 12,000 BTU 230V Through-the-Wall AC & Heater with Wall Sleeve: $598.97, 4.2 stars from 9 ratings. No URL opened.
+- Klimaire 12,000 BTU PTAC heat pump, 3.5 kW, 20A, 208–230V: $929.00. No URL opened.
+- Amana Distinctions 15,000 BTU PTAC heat pump: $1,039.00. Voltage was not in the title used. No URL opened.
+- pickhvac and garageplaybook describe a framed sleeve opening for this type of unit. No article URLs were opened.
+
+Cost context, not an electrician quote:
+
+- hvachowto.com: low-cost DIY kits roughly $900–$1,300, and hiring an HVAC company $3,000–$5,000. Cited on the page as one HVAC how-to site’s estimate, linked at the site root because no article path was in the brief. The Pioneer flare-and-vacuum step is why that pro range sits above the $1,128.00 equipment price. No electrician circuit price was used.
+
+Sizing used on the page, and only these area figures:
+
+- Brochure cells above. No BTU-per-square-foot rule.
+- A typical 2-car garage stated as roughly 400–600 sq ft. A Reddit poster in r/AirConditioners said “A 2 car garage is usually about 500 sq feet.” That sentence is not pinned to a comment URL, because the brief did not name the comment. The August 28, 2026 thread below is linked only for the quotes that brief ties to it.
+- Uninsulated doors and hot climates need more than the ideal-conditions number. Insulate the garage door first. The 24K is the 3-car/hot-climate step-up on the page. No 1-car or 3-car square footage was invented.
+
+Forum evidence. Quoted only the verbatim lines in the brief. Everything else is paraphrase:
+
+- r/AirConditioners, August 28, 2026, `https://www.reddit.com/r/AirConditioners/comments/1w0ps4o/trying_to_make_my_garage_usable_in_the_summer/`. u/Careless-Resource-72 bought “the 12k BTU Midea dual hose portable at Costco on sale at $289,” a 20x25x8' garage in Texas, vented through the bottom of a split garage door with wood blocking. “On 105 degree days, the garage stays at 85.” “It takes about an hour to drop from 105 to 85.” The $289 figure stays inside that quote. It is not the November 19 Amazon price. u/marlins6308: “I used a portable and it did nothing to cool my garage and everything is insulated. I had a mini split installed and it was a game changer.”
+- r/hvacadvice “Garage AC question,” August 29, 2026, `https://www.reddit.com/r/hvacadvice/comments/1w1oh1j/garage_ac_question/`. The poster had no window and was told venting a portable into the attic is a poor idea. The guide’s FAQ states the reason given with the assignment: the attic is hotter, and the hose would dump humidity there. u/ToadSox34: “Portable AC units are a last resort option, I'd look at a DIY minisplit. They're really cheap now.” u/OkFalcon7318 recommended a pre-charged quick-connect DIY unit to avoid a vacuum pump and gauges. That recommendation is paraphrased, not quoted.
+- r/hvacadvice “Portable ac unit for garage,” July 2025. No URL in the brief, so the guide names the thread and does not link it. u/Quirky-Ad7024: a mini split “just requires a dedicated power from breaker and about a 3” hole for the line set to pass through.”
+- r/GarageGym “Garage AC,” September 2025, `https://www.reddit.com/r/GarageGym/comments/1neudd2/garage_ac/`. Florida owners with block walls. Two commenters installed 18,000 BTU systems for 2-car garages, one a Mitsubishi. u/Mr_Style: “It’s easy to pop a hole through the hollow part of a concrete block (CMU) with a hammer.”
+- Safety: a Bryant page says a mini split does not stop carbon monoxide from cars entering the home. Never run vehicles or fuel-burning equipment in a closed garage. No Bryant URL was opened, so the guide names the page and does not link a guessed path.
+
+Not verified, so not used: ASINs for anything except B0HHJNYD5H; electrician circuit cost; Klimaire/ROVSUN/Midea product-page specs beyond search-result titles; Energy Star status of other units; any BTU-per-square-foot rule. Also not used: a 24K heating BTU, 24K breaker, or 24K line-set length; an 18K indoor-head height separate from the 12K install data; a low-ambient heating cutoff; Midea voltage or “dual hose” as an Amazon spec; a wire gauge for the 18K; a rendered stock status for any search-result price.
+
+Affiliate programs noted for John (free to join, not applied): Pioneer Mini Split has a creator/affiliate program (pioneerminisplit.com/pages/collab; listed on Impact per search results — Impact previously declined marketplace access for this site, so a direct invite may be needed). MRCOOL DIY Direct (mrcooldiydirect.com, a dealer) runs a direct affiliate program. MRCOOL itself has an influencer program (mrcool.com/support/become-influencer). Klimaire sells via Heat & Cool, whose affiliate program reportedly pays 7% with a 30-day cookie (unverified). None of those programs are linked from the guide.
+
+Older-page pass: Nov 17 and Nov 18 both did older-page work, so tonight is only internal links. `garage-heater-for-2-car-garage.html` got one contextual sentence in “Who this is for” plus a footer related link. `garage-ceiling-fan-clearance.html` got a footer related link. No price re-checks on those pages, and their updated dates were left alone. Index card, home nav, homepage lede and meta description, sitemap entry lastmod 2026-11-19 (homepage lastmod moved to the same date), and the README page list. The new page also carries the Impact site-verification meta that already sits on `index.html`, plus the Google site-verification meta used on every page. No FAQPage JSON-LD. No other older page was edited.
