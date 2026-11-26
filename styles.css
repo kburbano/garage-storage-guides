@@ -175,6 +175,22 @@ img {
   margin-top: 0.5rem;
 }
 
+.callout .cta-button {
+  display: inline-block;
+  margin-top: 0.35rem;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.65rem 1rem;
+  border-radius: var(--radius);
+}
+
+.callout .cta-button:hover {
+  background: var(--accent-hover);
+  color: #fff;
+}
+
 /* TOC */
 .toc {
   background: var(--surface);
