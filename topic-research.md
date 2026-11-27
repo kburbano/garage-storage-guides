@@ -593,3 +593,90 @@ Not verified on Nov 22, so not turned into a new price:
 - Piece quantities inside the Armadillo 14-piece. Not printed.
 
 FAQ sources actually opened: Armadillo resources FAQ and the organization article above; the Bold and Pro FAQs on the set pages; The Garage Journal thread “Suggestions for drawers under work bench” (https://www.garagejournal.com/forum/threads/suggestions-for-drawers-under-work-bench.298822/), including the poster’s line “32\" to the underside of the bench top” and the 33 1/2 in Harbor Freight end cabinet. The r/garageporn stainless-versus-bamboo thread and the r/HomeImprovement height thread were not re-opened; the page still paraphrases them and does not add new quotations from them. Reddit returned 403.
+
+## 2026-11-26 (America/Phoenix, MST)
+
+### Winner
+
+**Garage cabinets under $1,000** — published as `garage-cabinets-under-1000.html`.
+
+Assigned lane for the night. Title and H1 stay “Garage Cabinets Under $1,000”. Autocomplete did not return a clearly better cabinet phrasing. “garage cabinet set under” returned an empty suggestion list. “garage cabinets under 1000” suggested “garage storage systems under $1000”, which is the same budget and a wider product (racks and shelves as well as cabinets), so the title was not switched. The filename stayed `garage-cabinets-under-1000.html`.
+
+Google autocomplete, fetched from `https://suggestqueries.google.com/complete/search?client=firefox&q=`:
+
+- `garage+cabinets+under`: garage cabinets under $100, under $300, under $350, under $400, then garage storage under stairs / ceiling / $100 / bench / roof, and garage under cabinet lighting.
+- `garage+cabinets+under+1000`: garage storage systems under $1000, how much do garage cabinets cost, cheapest garage cabinets.
+- `garage+cabinet+set`: garage cabinet set, setup, costco, setup ideas, sale, with workbench, husky, canada, nearby, home depot.
+- `garage+cabinet+set+under`: no suggestions.
+- `best+garage+cabinets+under`: for the money, for the price, for the money reddit, for florida, then storage-for bikes / tools / kids toys / yard tools / sports equipment / garden tools.
+- `garage+storage+systems+under`: garage storage systems under $1000, garage storage cabinets under $100, garage storage system near me, storage garage units near me.
+- `cheapest+garage+cabinets`: the head term, reddit, cheap garage cabinets, near me, reddit, ikea, for sale, canada, nearby, uk.
+- `how+much+do+garage+cabinets+cost`: the head term, how much should garage cabinets cost, how much does garage storage cost, custom garage cabinets, storage garages, garage storage systems, overhead garage storage, custom garage storage, a storage garage per month, a garage storage unit.
+
+Candidates scored (Demand / Ticket / Competition / Amazon-sold / Result):
+
+| Candidate | Demand | Ticket | Competition | Amazon-sold | Result |
+|---|---|---|---|---|---|
+| Garage cabinets under $1,000 | High — the $1,000 line plus “garage storage systems under $1000” and “how much do garage cabinets cost” | High — verified sets $549.99–$999.99; one tall box $331.09 | Medium — brand stores and one listicle (bayandbench, not used as a price source); no Wirecutter page opened | Partial — Amazon search links only; a Fedmax ASIN page did not expose a buy-box price | WON |
+| Garage cabinets under $100–$400 | Autocomplete shows these dollar steps | Low — below a steel set; cheapest Armadillo page opened was a $199.99 wall cabinet | Not shopped as its own page | Not shopped | Lost — different budget, folded into the FAQ |
+| Cheapest garage cabinets / for the money reddit | Autocomplete, including a reddit modifier | — | Tool-chest threads are a different product | Not used | Lost — questions used only where a page was opened |
+| Full cabinet-and-workbench walls (Bold 73509, Armadillo 7-piece) | Already a page on this site | Over $1,000 on the last check | — | — | Lost — already published, and over this cap |
+
+Why it won: it was the assigned query, the $1,000 cap is a real autocomplete branch, and Armadillo has preconfigured sets and piece prices inside it. The lower dollar steps are a different purchase. The longer workbench walls are already on `garage-cabinets-with-workbench.html`.
+
+Top pick on the page: Armadillo 2-piece set in black at $649.99, plus the gray wall cabinet at $199.99 ($849.98). The gray Gear Locker is still listed at $599.99 and the page says backordered until January 18, 2027, with a 2-unit minimum. Two lockers are $1,199.98.
+
+### Verified prices and specs, Nov 26, 2026
+
+Armadillo Tough. Product JSON `available` was true and the visible button was “Add to cart” unless noted. A “Sold out” string is in the theme on pages whose button is still Add to cart, so that string was not treated as the stock state. The homepage (`https://armadillotough.com/`) says “Limited-time garage cabinet deals.” The words Black Friday and Cyber Monday were not on that page.
+
+- Gear Locker, gray, `https://armadillotough.com/products/garage-gear-locker-in-gray`: $599.99, no compare-at. Item ARGL36BG-A. Visible text: “Backordered — Estimated Ship Date: January 18, 2027”, “Sold out”, “Pre-order Now”, “Currently out of stock”, and “This product can only be purchased at a minimum of 2 units and in intervals of 1 units.” 22-gauge, 36 × 18 × 72.8 in, 750 lb total, 150 lb per shelf, three shelves, limited lifetime warranty, net weight 144.4 lb. Variant `quantity_rule.min` in the page JSON is 1, which conflicts with the visible 2-unit sentence. Product-record `available` was true.
+- Gear Locker, black, `https://armadillotough.com/products/garage-gear-locker-in-black`: $599.99. Item ARGL36BB-A. Button: Add to cart. No backorder date. Same visible 2-unit sentence. 22-gauge, 36 × 18 × 72.8 in, “Each shelf holds up to 150 lbs, for a total capacity of 750 lbs.” Limited lifetime warranty.
+- 3-drawer cabinet, gray, `https://armadillotough.com/products/3-drawer-garage-storage-cabinet-in-gray`: $449.99, no compare-at. Add to cart. 22-gauge, 28 × 18 × 35.1 in, 500 lb total, 100 lb per drawer, soft-close, EVA liners, rubber tool mat, levelers, limited lifetime warranty, net weight 104.5 lb. This page does not call it a 2-door cabinet.
+- 3-drawer 2-door, black, `https://armadillotough.com/products/3-drawer-2-door-garage-storage-cabinet-in-black`: $449.99. Add to cart. 22-gauge, 28 × 18 × 35.1 in, 600 lb total, 50 lb per drawer, 150 lb shelf, net weight 98.3 lb. Different cabinet from the gray 3-drawer at the same price.
+- Wall cabinet, gray, `https://armadillotough.com/products/garage-wall-cabinet-in-gray`: $199.99. Add to cart. 22-gauge, 28 × 12 × 18 in, 150 lb total, 50 lb shelf, one shelf, limited lifetime warranty, net weight 40 lb.
+- Wall cabinet, black, `https://armadillotough.com/products/garage-wall-cabinet-in-black`: $199.99. Add to cart. Spec block was not re-copied from this color; the table uses the gray page for gauge, load, and size.
+- 2-door cabinet, black, `https://armadillotough.com/products/2-door-garage-storage-cabinet-in-black`: $349.99. Add to cart. 22-gauge, 28 × 18 × 35.1 in, 600 lb total, 150 lb shelf, one shelf, rubber mat, levelers, limited lifetime warranty, net weight 70 lb. The gray 2-door page listed the same price and the same printed ratings.
+- Multifunction cabinet, black, `https://armadillotough.com/products/multifunction-garage-cabinet-in-black`: $399.99. Add to cart. Page includes “22-gauge”. 28 × 18 × 35.1 in, 600 lb total, 50 lb drawer, 150 lb shelf, net weight 82 lb.
+- 56 in hardwood top, `https://armadillotough.com/products/56-wood-top`: $199.99. Add to cart. Birch, solid core, 1.5 in, 56 × 18 × 1.5 in, limited lifetime warranty. The page says a locker mount requires a Gear Locker Support Bracket, bought separately. Bracket price was not opened.
+- Support leg, `https://armadillotough.com/products/garage-workbench-support-legs-copy`: $99.99. Add to cart. 21-gauge, sold individually, 15 × 3.6 × 34.8 in.
+- 56 in workbench, `https://armadillotough.com/products/56-inch-work-bench-30`: $399.99. Add to cart. Includes the 56 in birch top and two 21-gauge legs. “Support up to 1500 lbs, of evenly distributed weight.” 56 × 18 × 36.3 in. Limited lifetime warranty.
+- 2-piece set, black, `https://armadillotough.com/products/2-piece-set-with-levelers-black-84b`: $649.99, no compare-at. Add to cart. Include list: 2-door cabinet 28 × 18 × 35.1, 56 in hardwood top 56 × 18 × 1.5, workbench leg. Overall 56 × 18 × 36.3 in. No gauge and no load on the set page. Catalog prices for the grey and red handles of this set were the same $649.99; those color URLs were not opened. Separate pages for the 2-door, the top, and one leg add to $649.97.
+- 2-piece with the 3-drawer, black, `https://armadillotough.com/products/2-piece-garage-cabinet-storage-and-organization-set-with-levelers-in-black`: $749.99. Add to cart. Include list: 3-drawer cabinet 28 × 18 × 35.1, 56 in top, workbench leg. Overall 56 × 18 × 36.3 in. No gauge and no load on the set page.
+- 2-piece with the 6-drawer, black, `https://armadillotough.com/products/2-piece-set-2b-with-levelers-black-1`: $799.99. Include list names a 6-drawer tool cabinet 28 × 18 × 35.1, the 56 in top, and a leg. Overall 56 × 18 × 36.3 in. The individual 6-drawer page was not opened, so no drawer load was copied.
+- 5-piece set, black, `https://armadillotough.com/products/5-piece-set-black-63b`: sale $899.99, regular $999.95. Add to cart. Include block names only a wall cabinet, 28 × 12 × 18 in. Overall 140 × 12 × 18 in. No gauge. 5 × 28 in = 140 in and 5 × $199.99 = $999.95. The page does not print the word “five” next to the cabinet.
+- 4-piece wall set, black, `https://armadillotough.com/products/4-piece-set-black-62b`: sale $729.99, regular $799.96. Wall cabinet only, overall 112 × 12 × 18 in. 4 × $199.99 = $799.96.
+- 3-piece wall set, black, `https://armadillotough.com/products/3-piece-set-grey-61b`: sale $549.99, regular $599.97. Wall cabinet only, overall 84 × 12 × 18 in. The handle says grey; the page opened was the black color of that set. 3 × $199.99 = $599.97.
+- 6-piece wall set, black, `https://armadillotough.com/products/6-piece-set-black-64b`: sale $1,049.99, regular $1,199.94. Wall cabinet only, overall 168 × 12 × 18 in. Over $1,000. Not a pick.
+- 4-piece mixed set, black 85b, `https://armadillotough.com/products/4-piece-set-with-levelers-black-85b`: sale $999.99, compare-at $1,049.95. Add to cart. Include list: 2-door 28 × 18 × 35.1, wall cabinet 28 × 12 × 18, 56 in top, workbench leg. Overall line prints 56 × 18 × 72.8 in. Piece heights do not add to 72.8. The four named piece pages add to $849.96, which is $150.03 under the set price. The set page does not explain the gap.
+- 4-piece mixed set, black 81b, `https://armadillotough.com/products/4-piece-set-with-levelers-black-81b`: sale $999.99, regular $1,149.96. Include list: multifunction cabinet, 2-door cabinet, wall cabinet. Overall line prints 56 × 18 × 72.8 in. No top in the include list. Those three cabinet pages add to $949.97. Not the pick, because the 2-piece plus a wall cabinet is less money and the height line does not match the pieces.
+- Preconfigured-sets collection, `https://armadillotough.com/collections/preconfigured-sets`: the sets on the first screen were $1,799.99 and up, and the buttons on that screen read sold out. The under-$1,000 sets above were found in the product catalog, not on that first collection screen.
+
+Other brands:
+
+- NewAge Bold 5-piece, SKU 50126, `https://newageproducts.com/products/bold-series-5-piece-cabinet-set-with-wall-base-cabinet-and-worktop-50126/?variant=01tOG00000904mRYAQ`: offer price $659.99, `compare_at_price` $879.99, `priceValidUntil` 2030-05-04. Title: 24-gauge, fully welded, 48 × 18 × 76.75 in. Includes two 24 in 2-door base cabinets, two 24 in wall cabinets, and one 48 in bamboo or stainless top. Description: base up to 600 lb, wall up to 100 lb. Warranty line on the fetched page: limited lifetime. Review block: 4.5 from 179 reviews. The variant in the URL is black frame with gray door and a bamboo top. “Offer Ends 06/18” appeared in one fetch rendering and not in the later HTML, so the page does not use that date.
+- Seville UltraHD 4-piece, UHDK20408, `https://www.sevilleclassics.com/products/uhdk20408`: product record price $969.99, no compare-at, available. HTML also printed a sale-price field of $0.00, which was not used as the price. Footprint 112 × 24 × 95.5 in, graphite. Includes UHD20143B (36 × 18 × 72), UHD20140B (36 × 12 × 30), UHD20145B (28 × 18 × 34.5), UHD20182B (48 × 24 × 28.5 to 42). No gauge and no load on the bundle page. Assembly required, indoor only.
+- Gladiator Ready-to-Assemble Large GearBox, `https://www.gladiatorgarageworks.com/products/ready-to-assemble-large-gearbox`: product record price $331.09, compare-at $429.99, available. The same 331.09 figure is in the HTML. 36 × 18 × 72 in, 450 lb total, 75 lb per shelf, 3 shelves (2 adjustable and 1 fixed), 10-year limited warranty, leveling legs, assembly required, not compatible with the caster kit. No gauge.
+
+Arithmetic used on the page, from those prices only: $649.99 + $199.99 = $849.98; $349.99 + $199.99 + $99.99 = $649.97; $199.99 + $99.99 + $99.99 = $399.97 against the $399.99 workbench; 5 × $199.99 = $999.95; 4 × $199.99 = $799.96; 3 × $199.99 = $599.97; 2 × $599.99 = $1,199.98; 3 × $331.09 = $993.27; $349.99 + $199.99 + $199.99 + $99.99 = $849.96; 34.8 in + 1.5 in = 36.3 in.
+
+FAQ source opened: Garage Journal, “Best 'bang for the buck' garage cabinets you can buy at the store?”, `https://www.garagejournal.com/forum/threads/best-bang-for-the-buck-garage-cabinets-you-can-buy-at-the-store.484625/`, started Aug 2, 2021 by Zrsnopro97. The page paraphrases that question and the later note that the poster ordered Seville. It does not quote the 2021 prices as current prices. Reddit threads in search results were not opened, so they are not cited.
+
+### Could not verify
+
+- Home Depot Husky 5-piece (`https://www.homedepot.com/p/Husky-5-Piece-Ready-to-Assemble-Steel-Garage-Storage-System-in-Red-72-in-W-x-98-in-H-x-24-in-D-G07207SR-US/316291806`): fetch timed out. No Husky price.
+- Lowe’s Craftsman welded cabinet (`https://www.lowes.com/pd/CRAFTSMAN-Welded-Garage-36-in-W-x-80-in-H-x-24-in-D-1-Cabinets-Steel-Red-Garage-Storage-System/5019882809`): HTTP 403. No Craftsman price.
+- Amazon Fedmax locker `https://www.amazon.com/dp/B07BK8W5MF`: HTTP 200, and the HTML had no `priceAmount`, no ASIN string, and no buy-box price that could be tied to that cabinet. A search snippet that said $348.60 was not used. No Fedmax price.
+- Sam’s Club, Costco, and a current Husky or Craftsman price at any retailer. Not opened.
+- thefedmax.com product prices. Not opened as a priced product page.
+- Whether the Gear Locker cart enforces the visible 2-unit minimum. The page says it does. The variant quantity rule says min 1. Not tested by adding to a cart.
+- Steel gauge and load on the Armadillo set pages. Not printed there.
+- A load rating on the bare 56 in wood top. The 1,500 lb line is on the workbench page, which includes two legs.
+- Why the 85b 4-piece costs more than the four named piece pages, and why its overall height prints 72.8 in.
+- Seville bundle gauge and load. Not printed. The separate bench page was not re-opened.
+- Gladiator gauge. Not printed.
+- NewAge Bold 73509 and the larger Armadillo 7-piece. Not re-opened tonight. Not priced on this page.
+- A Black Friday label. Not on the Armadillo homepage or the product pages opened.
+- Reddit comment text. Search hits were not opened.
+
+Older-page pass: one contextual link each, no price edits, on `armadillo-tough-vs-newage-vs-gladiator-garage-cabinets.html`, `garage-cabinets-with-workbench.html`, and `garage-slatwall-proslat-vs-gladiator.html`. Sitemap lastmod for those three URLs and for the new URL is 2026-11-26. Index got a cabinets card and a nav link. No noindex.
